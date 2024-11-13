@@ -31,3 +31,20 @@ body{
 .userFlash{
     background-color: green;
 }
+@media (max-width :600px){
+    .btn{
+        height: 100px;
+        width: 100px;
+        border-radius: 20%;
+        border: 10px solid black;
+        margin: 1.2rem;
+    }
+    h1{
+        margin-top: 40%;
+    }
+    h2{
+    margin-bottom: 10%;
+    }
+    
+    
+}
